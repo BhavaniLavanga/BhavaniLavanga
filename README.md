@@ -15,8 +15,8 @@ I’m continuously expanding my skill set, and right now, I'm diving deeper into
 ### 📫 How to Reach Me
 You can connect with me via:
 - Email: **lavangabhavani@gmail.com**
-- LinkedIn: **[Bhavani Lavanga]**(https://www.linkedin.com/in/bhavani-lavanga-6a0a7b289/)
-- GitHub: **[Bhavani Lavanga]**(https://github.com/BhavaniLavanga)
+- LinkedIn: [Bhavani Lavanga](https://www.linkedin.com/in/bhavani-lavanga-6a0a7b289/)
+- GitHub: [Bhavani Lavanga](https://github.com/BhavaniLavanga)
 
 
 
